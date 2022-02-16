@@ -1,4 +1,4 @@
-# React Native 0.67.1 CodePush / Firebase example
+# React Native 0.67.2 CodePush / Firebase example
 
 > A working example of using the latest React Native CodePush with Firebase Performance Monitoring
 
